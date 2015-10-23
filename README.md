@@ -1,5 +1,7 @@
 ---
 title: "README.md"
+author: "TW"
+date: "23. Oktober 2015"
 output: html_document
 ---
 
